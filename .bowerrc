@@ -1,0 +1,7 @@
+{
+  "directory": "vendor",
+  "json": "bower.json",
+  "proxy": "http://proxy.mms-dresden.telekom.de:8080",
+  "https-proxy": "http://proxy.mms-dresden.telekom.de:8080"
+}
+
